@@ -1,0 +1,11 @@
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\bin\Debug\netcoreapp2.0\CS.deps.json
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\bin\Debug\netcoreapp2.0\CS.runtimeconfig.json
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\bin\Debug\netcoreapp2.0\CS.runtimeconfig.dev.json
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\bin\Debug\netcoreapp2.0\CS.dll
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\bin\Debug\netcoreapp2.0\CS.pdb
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\obj\Debug\netcoreapp2.0\CS.csprojResolveAssemblyReference.cache
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\obj\Debug\netcoreapp2.0\CS.csproj.CoreCompileInputs.cache
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\obj\Debug\netcoreapp2.0\CS.AssemblyInfoInputs.cache
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\obj\Debug\netcoreapp2.0\CS.AssemblyInfo.cs
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\obj\Debug\netcoreapp2.0\CS.dll
+C:\Users\zEROSeven\source\repos\GenericTemplate\CS\obj\Debug\netcoreapp2.0\CS.pdb

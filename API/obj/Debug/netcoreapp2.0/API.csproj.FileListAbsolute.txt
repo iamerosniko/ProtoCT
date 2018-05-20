@@ -6,3 +6,6 @@ C:\Users\zEROSeven\source\repos\GenericTemplate\API\obj\Debug\netcoreapp2.0\API.
 C:\Users\zEROSeven\source\repos\GenericTemplate\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
 C:\Users\zEROSeven\source\repos\GenericTemplate\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
 C:\Users\zEROSeven\source\repos\GenericTemplate\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Users\zEROSeven\source\repos\GenericTemplate\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Users\zEROSeven\source\repos\GenericTemplate\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Users\zEROSeven\source\repos\GenericTemplate\API\obj\Debug\netcoreapp2.0\API.pdb
